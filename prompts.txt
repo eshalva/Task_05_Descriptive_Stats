@@ -1,0 +1,35 @@
+### ✅ Basic Prompts
+1. How many games did the Syracuse women’s lacrosse team play in 2025?
+2. What was the team’s win-loss record overall?
+3. How many games did they win at home, away, and neutral venues?
+4. Which game had the highest attendance?
+5. What was the total number of goals scored by Syracuse?
+6. What was the total number of goals conceded by Syracuse?
+7. What is the team’s goal differential?
+8. What was the average number of goals scored per game?
+9. Who was the top goal scorer?
+10. Who had the most assists?
+
+### ⚖️ Intermediate Prompts
+11. What was the team’s shooting percentage?
+12. What was the clear percentage for Syracuse and their opponents?
+13. How many free position goals did the team score?
+14. How many draw controls did Syracuse win?
+15. What was the average attendance for home games?
+16. How many caused turnovers did the team have?
+17. What was the save percentage of Syracuse's primary goalie?
+18. Who had the most ground balls?
+19. Who committed the most turnovers?
+20. Who had the best goal-to-shot ratio?
+
+### 🤖 Advanced / Judgment-Based Prompts
+21. Who was the most improved player this season?
+22. Which player contributed most to offensive success?
+23. If the coach wants to win 2 more games next season, should they focus on offense or defense?
+24. Based on the data, which player should the coach invest the most time in developing?
+25. What patterns emerge in Syracuse’s wins versus losses?
+26. Did Syracuse perform better in high-attendance games?
+27. Was there any noticeable improvement in performance over the course of the season?
+28. Are there any players who are underutilized based on their shot efficiency?
+29. What metrics correlate most strongly with game outcomes?
+30. Did Syracuse improve their defensive stats in the second half of the season?
