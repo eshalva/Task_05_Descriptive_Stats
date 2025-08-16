@@ -1,4 +1,4 @@
-### ✅ Basic Prompts
+### ✅ Basic Prompts 
 1. How many games did the Syracuse women’s lacrosse team play in 2025?
 2. What was the team’s win-loss record overall?
 3. How many games did they win at home, away, and neutral venues?
