@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 # --- Top Goal Scorers ---
 
-player_goals = {
+player_goals = { 
     "Emma Muchnick": 34,
     "Caroline Trinkaus": 32,
     "Emma Ward": 30,
