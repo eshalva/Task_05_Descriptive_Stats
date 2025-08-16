@@ -86,6 +86,9 @@ To evaluate how well an LLM:
 3. (Optional) Plug in your own lacrosse team data in the same format
 
 ---
+July 31 Update: Initial repo setup with analysis script, prompts, and first visualizations.
+
+Aug 15 Update: Added new charts, expanded prompt tests, implemented validation, and documented LLM limitations. 
 
 ## Author
 Made by **Esha Alva**  
